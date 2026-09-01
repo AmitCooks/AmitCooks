@@ -1,16 +1,23 @@
-## Hi there 👋
+HI, AMIT HERE!
+- An undergraduate engineer based in India.
 
-<!--
-**AmitCooks/AmitCooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently somewhere between:
+learning → exploring → figuring → creating
 
-Here are some ideas to get you started:
+CORE:
+Python, C++, Java, SQL, and whatever else the next project forces me to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of what you’ll find here is me figuring it out:
+
+projects I’m actually building
+things I’m learning
+experiments
+things that broke
+things I fixed
+things I probably shouldn't have started but did anyway
+
+Just following what interests me and getting better along the way.
+This is the work.
+Thats the point.
+
+Still building Not finished.
