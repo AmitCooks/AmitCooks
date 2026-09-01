@@ -1,8 +1,8 @@
 HI, AMIT HERE!
-- An undergraduate engineer based in India.
+
 
 Currently somewhere between:
-learning → exploring → figuring → creating
+Engineering → exploring → figuring → creating
 
 CORE:
 Python, C++, Java, SQL, and whatever else the next project forces me to learn.
