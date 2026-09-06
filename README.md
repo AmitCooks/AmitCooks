@@ -5,7 +5,7 @@ Currently somewhere between:
 Engineering → exploring → figuring → creating
 
 CORE:
-Python, C++, Java, SQL, and whatever else the next project forces me to learn.
+Python, C++, Java, SQL, ML, and whatever else the next project forces me to learn.
 
 Most of what you’ll find here is me figuring it out:
 
